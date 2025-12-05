@@ -1,4 +1,4 @@
-# Practica2Dsanchez
+# Practica 2 - David Sánchez
 
 Actividad 2: Tutorial de una tecnología/framework 
 
@@ -53,6 +53,9 @@ Se debe incluir un tutorial/guía en formato navegable (HTML+CSS) que al menos i
 La longitud del tutorial debe ser, como mínimo, el equivalente a 10 páginas.
 
 La memoria debe entregarse en PDF y tendrá como máximo 10 páginas.
+
+
+
 
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.1.
