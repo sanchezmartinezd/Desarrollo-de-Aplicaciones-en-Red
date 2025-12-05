@@ -165,4 +165,8 @@ test/
 temp/
 ejemplo_dockers/
 
+#ficheros word
+*.docx
+*.doc
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,osx,visualstudiocode,java
